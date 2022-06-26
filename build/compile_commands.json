@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nikolai/projects/cpp-search-server-second/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/search-server.dir/main.cpp.o -c /home/nikolai/projects/cpp-search-server-second/main.cpp",
+  "file": "/home/nikolai/projects/cpp-search-server-second/main.cpp"
+}
+]

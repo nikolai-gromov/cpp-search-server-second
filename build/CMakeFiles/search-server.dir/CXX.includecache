@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikolai/projects/cpp-search-server-second/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+utility
+-
+vector
+-
+
